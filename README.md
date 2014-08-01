@@ -1,7 +1,7 @@
 # OpenRA
 
 A Libre/Free Real Time Strategy game engine supporting early Westwood classics.
-
+* 官方網站: [http://www.openra.net](http://www.openra.net)
 * Website: [http://www.openra.net](http://www.openra.net)
 * IRC: \#openra on irc.freenode.net
 * Repository: [https://github.com/OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) [![Build Status](https://travis-ci.org/OpenRA/OpenRA.svg?branch=bleed)](https://travis-ci.org/OpenRA/OpenRA)
