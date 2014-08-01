@@ -1,7 +1,7 @@
 # 終極動員令紅色警戒一代 中文版遊戲引擎 OpenRedAlert_TW
 
-A Libre/Free Real Time Strategy game engine supporting early Westwood classics.
-* 官方網站: [http://www.openra.net](http://www.openra.net)
+自由、免費 支援早期西木公司(Westwood)經典遊戲的即時戰略遊戲引擎
+* 官方網站(英文): [http://www.openra.net](http://www.openra.net)
 
 * IRC: \#openra on irc.freenode.net
 * Repository: [https://github.com/OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) [![Build Status](https://travis-ci.org/OpenRA/OpenRA.svg?branch=bleed)](https://travis-ci.org/OpenRA/OpenRA)
@@ -18,10 +18,6 @@ Join the [Forums](http://www.sleipnirstuff.com/forum/viewforum.php?f=80) for dis
 * 終極動員令 泰伯倫黎明
 * 沙丘魔堡 2000
 
-Distributed mods include a reimagining of
-* Command & Conquer: Red Alert
-* Command & Conquer: Tiberian Dawn
-* Dune 2000
 
 Check our [Playing the Game](https://github.com/OpenRA/OpenRA/wiki/Playing-the-game) Guide to win multiplayer matches.
 
@@ -31,12 +27,14 @@ Check our [Playing the Game](https://github.com/OpenRA/OpenRA/wiki/Playing-the-g
 * See [Hacking](http://wiki.openra.net/Hacking) for an overview of the engine.
 * To get your patches merged, please adhere to the [Contributing](https://github.com/OpenRA/OpenRA/blob/bleed/CONTRIBUTING.md) guidelines.
 
+## 地圖製作
 ## Mapping
 
 * We offer a [Mapping](http://wiki.openra.net/Mapping) Tutorial as you can change gameplay drastically with custom rules.
 * For scripted mission have a look at the [Lua API](http://wiki.openra.net/New-Lua-API).
 * If you want to share your maps with the community, upload them at the [OpenRA Resource Center](http://resource.openra.net).
 
+## 模組化
 ## Modding
 
 * There exists an auto-generated [Trait documentation](http://wiki.openra.net/Traits) to get started with yaml files.
@@ -50,6 +48,7 @@ Check our [Playing the Game](https://github.com/OpenRA/OpenRA/wiki/Playing-the-g
 * You can immediately set up a [Dedicated](http://wiki.openra.net/Dedicated) Game Server.
 * Fund development by creating [Bounties](https://www.bountysource.com/trackers/36085-openra) on specific tasks.
 
+## 軟體授權
 ## License
 Copyright 2007-2014 The OpenRA Developers (see [AUTHORS](https://github.com/OpenRA/OpenRA/blob/bleed/AUTHORS))
 This file is part of OpenRA, which is free software. It is made 
