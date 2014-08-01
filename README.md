@@ -12,6 +12,12 @@ Join the [Forums](http://www.sleipnirstuff.com/forum/viewforum.php?f=80) for dis
 
 ## Play
 
+包含的模組有
+
+* 終極動員令 紅色警戒
+* 終極動員令 泰伯倫黎明
+* 沙丘魔堡 2000
+
 Distributed mods include a reimagining of
 * Command & Conquer: Red Alert
 * Command & Conquer: Tiberian Dawn
