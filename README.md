@@ -42,8 +42,8 @@ Check our [Playing the Game](https://github.com/OpenRA/OpenRA/wiki/Playing-the-g
 
 ## 如何支援OpenRA_TW
 
-* Sponsor a [mirror server](https://github.com/OpenRA/OpenRAWeb/tree/master/content/packages) if you have some bandwidth to spare.
-* You can immediately set up a [Dedicated](http://wiki.openra.net/Dedicated) Game Server.
+* 如果你有多的網路頻寬的話，弄一個吧 [鏡像服務器](https://github.com/OpenRA/OpenRAWeb/tree/master/content/packages)吧
+* 你可以馬上設置一個 [專門的](http://wiki.openra.net/Dedicated) 遊戲服務器
 * Fund development by creating [Bounties](https://www.bountysource.com/trackers/36085-openra) on specific tasks.
 
 
