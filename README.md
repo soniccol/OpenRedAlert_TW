@@ -8,7 +8,7 @@
 
 Please read the [FAQ](http://wiki.openra.net/FAQ) in our [Wiki](http://wiki.openra.net) and report problems at [http://bugs.openra.net](http://bugs.openra.net).
 
-Join the [Forums](http://www.sleipnirstuff.com/forum/viewforum.php?f=80) for discussion.
+加入[論壇](http://www.sleipnirstuff.com/forum/viewforum.php?f=80) 來討論
 
 ## Play
 
