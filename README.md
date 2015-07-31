@@ -23,7 +23,7 @@ Check our [Playing the Game](https://github.com/OpenRA/OpenRA/wiki/Playing-the-g
 
 ## 對OpenRA_TW作出貢獻
 [![Bountysource](https://api.bountysource.com/badge/team?team_id=528&style=bounties_received)](https://www.bountysource.com/teams/openra/issues?utm_source=OpenRA&utm_medium=shield&utm_campaign=bounties_received)
-* Please read [INSTALL.md](https://github.com/OpenRA/OpenRA/blob/bleed/INSTALL.md) and [Compiling](http://wiki.openra.net/Compiling) on how to set up an OpenRA development environment.
+* 請參考 [INSTALL.md](https://github.com/OpenRA/OpenRA/blob/bleed/INSTALL.md) 跟 [Compiling](http://wiki.openra.net/Compiling) 這二個檔案來設置OpenRA程式開發環境。
 * See [Hacking](http://wiki.openra.net/Hacking) for an overview of the engine.
 * To get your patches merged, please adhere to the [Contributing](https://github.com/OpenRA/OpenRA/blob/bleed/CONTRIBUTING.md) guidelines.
 
